@@ -1,3 +1,4 @@
+#DONE
 f = open("day8.txt", "r")
 currLine = f.readline().rstrip().strip()
 listOfInstructions = []
